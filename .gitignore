@@ -130,3 +130,6 @@ dmypy.json
 
 # Virtual Environment
 /nba_venv
+
+# VS Code
+/.vscode 
